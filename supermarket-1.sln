@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "supermarket-1.Plugins", "supermarket-1.Plugins.csproj", "{824F72BB-4D9F-B14B-FCBA-AE4EDFDD73C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "supermarket-1", "supermarket-1.csproj", "{101C8DB2-A929-688D-CBDA-6052A63C19BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "supermarket-1.Editor.Plugins", "supermarket-1.Editor.Plugins.csproj", "{6C53CD6B-F362-48FA-7AF0-6B71A08A2AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824F72BB-4D9F-B14B-FCBA-AE4EDFDD73C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824F72BB-4D9F-B14B-FCBA-AE4EDFDD73C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824F72BB-4D9F-B14B-FCBA-AE4EDFDD73C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824F72BB-4D9F-B14B-FCBA-AE4EDFDD73C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101C8DB2-A929-688D-CBDA-6052A63C19BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101C8DB2-A929-688D-CBDA-6052A63C19BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101C8DB2-A929-688D-CBDA-6052A63C19BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101C8DB2-A929-688D-CBDA-6052A63C19BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C53CD6B-F362-48FA-7AF0-6B71A08A2AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C53CD6B-F362-48FA-7AF0-6B71A08A2AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C53CD6B-F362-48FA-7AF0-6B71A08A2AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C53CD6B-F362-48FA-7AF0-6B71A08A2AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
